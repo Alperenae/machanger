@@ -16,7 +16,11 @@ python3 setup.py
 
 python3 run.py
 
-### PICTURE OF
+## PICTURE OF
 
-![p](https://yadi.sk/i/j0pF8hPnp9fVrw)
+![p](1.jpg)
 
+### FEEDBACK 
+
++ `@alpernae` instagram
++ `@alprenae` twitter
